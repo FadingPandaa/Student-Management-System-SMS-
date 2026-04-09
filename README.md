@@ -50,10 +50,15 @@ the 'com.mycompany.main' package:
 🧾 Example Output
 
 STUDENT 1
+
 STUDENT ID: 101
+
 STUDENT NAME: John Doe
+
 STUDENT AGE: 20
+
 STUDENT EMAIL: john@example.com
+
 STUDENT COURSE: IT
 
 ------------------------------
